@@ -19,7 +19,17 @@ The game has you playing as a young knight in the Thelonian army. It has been ye
 * drop - places an item from the player inventory in the present location
 * turn on - turns on an item (only works for lantern currently)
 * turn off - turns off an item (only works for lantern currently)
-* inventory - lists the items in the player inventory 
+* inventory - lists the items in the player inventory
+* help - displays help text 
+* quit - exits the game
 
 ### Goal ###
+The goal of the game is to find the legendary blade of Thelonia within the ruins of the castle belonging to the blade's last wielder.
+
+### How to Run the Game ###
+1. Run the .pl file
+2. Type "begin."
+3. The game will start 
+4. Type "quit" at anytime to exit the game 
+
 
